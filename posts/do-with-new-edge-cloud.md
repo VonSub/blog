@@ -2,6 +2,7 @@
 title: "What can I do with the New Edge Cloud"
 author: Sam
 tags: edge cloud, tech
+published_at: 2017-9-12
 ---
 
 

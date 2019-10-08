@@ -2,6 +2,7 @@
 title: "The need for a new, green utility digital currency"
 author: Adnan
 tags: token, digital currencies
+published_at: 2017-9-12
 ---
 
 # The need for a new, green utility digital currency

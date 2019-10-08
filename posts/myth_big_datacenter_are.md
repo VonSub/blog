@@ -2,6 +2,7 @@
 title: "Datacenter Myths"
 author: Andreas
 tags: sustainability, tech
+published_at: 2017-9-12
 ---
 
 

@@ -2,6 +2,7 @@
 title: "Internet is growing wild"
 author: Andreas
 tags: edge cloud, tech
+published_at: 2017-9-12
 ---
 
 # Internet is growing wild

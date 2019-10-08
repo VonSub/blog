@@ -2,6 +2,7 @@
 title: "Our Magical Zero-Node"
 author: Kristof
 tags: edge cloud, tech, node
+published_at: 2017-9-12
 ---
 
 # Our Magical Zero-Node

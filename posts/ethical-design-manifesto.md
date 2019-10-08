@@ -2,6 +2,7 @@
 title: "Ethical Design Manifesto"
 author: Stela
 tags: human, design
+published_at: 2017-9-12
 ---
 
 # Ethical Design Manifesto

@@ -2,6 +2,7 @@
 title: "Technology for a New Internet"
 author: Weynand
 tags: tech, internet
+published_at: 2017-9-12
 ---
 
 

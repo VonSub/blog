@@ -2,6 +2,7 @@
 title: "10 times power savings, is this possible?"
 author: Kristof
 tags: sustainability, IT
+published_at: 2017-9-12
 ---
 
 # 10 times power savings, is this possible?
