@@ -7,7 +7,7 @@ tags: sustainability, tech
 
 # Datacenter Myths
 
-![Logo](../assets:images/what-can-i-do.jpg)
+![Logo](../assets/images/what-can-i-do.jpg)
 ## Hyperscale realities
 
 ### Myth 1: big data centers are more efficient than small ones.

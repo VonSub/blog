@@ -6,7 +6,7 @@ tags: capacity, decentralization, farming
 
 # The AirBnB of Internet Capacity
 
-![Logo](../assets:images/airbnb-for-internet-capacity.jpg)
+![Logo](../assets/images/airbnb-for-internet-capacity.jpg)
 ## Anyone is able to deliver capacity to the ThreeFold Grid.
 
 **In this article, we discuss the general concept of a ‘decentralized grid’.**

@@ -6,7 +6,7 @@ tags: edge cloud, tech
 
 # Internet is growing wild
 
-![Logo](../assets:images/internet-is-growing.jpg)
+![Logo](../assets/images/internet-is-growing.jpg)
 ## Internet is growing in a way which is not sustainable, there needs to be an alternative
 
 ### internet capacity needs to become local

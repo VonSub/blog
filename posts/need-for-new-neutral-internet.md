@@ -7,7 +7,7 @@ tags: neutrality, internet
 
 # The need for a new, neutral Internet
 
-![Logo](../assets:images/neutral-internet.jpg)
+![Logo](../assets/images/neutral-internet.jpg)
 ## The internet is growing like crazy. This is a Trillion Dollar problem. Together we can build a new internet.
 
 

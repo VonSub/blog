@@ -5,7 +5,7 @@ tags: sustainability, IT
 ---
 
 # 10 times power savings, is this possible?
-![Logo](../assets:images/10x-times-power.jpg)
+![Logo](../assets/images/10x-times-power.jpg)
 ### How does ThreeFold achieve the efficient power usage in the Zero-OS node
 
 Today, global Internet and IT infrastructure requires enormous amounts of energy far north of the entire annual electricity consumption of the United Kingdom and ranks among the most pollutive industries globally (similar to that of airlines).

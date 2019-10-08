@@ -7,7 +7,7 @@ tags: edge cloud, tech
 
 # What can I do with the New Edge Cloud
 
-![Logo](../assets:images/what-can-i-do.jpg)
+![Logo](../assets/images/what-can-i-do.jpg)
 ## Use cases of how the ThreeFold Edge Cloud can be used.
 
 ## Any Docker Service

@@ -8,7 +8,7 @@ tags: tech, internet, hpe
 
 ## THREEFOLD CREATES A MORE RESPONSIBLE, NEUTRAL AND DECENTRALIZED INTERNET WITH HEWLETT PACKARD ENTERPRISE
 
-![Logo](../assets:images/mou.jpg)
+![Logo](../assets/images/mou.jpg)
 
 18 October 2018
 

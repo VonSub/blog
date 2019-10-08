@@ -5,7 +5,7 @@ tags: human, design
 ---
 
 # Ethical Design Manifesto
-![Logo](../assets:images/ethicaldesign.jpg)
+![Logo](../assets/images/ethicaldesign.jpg)
 ## How to create products in an ethical, human friendly way.
 
 ## Respect Human Rights

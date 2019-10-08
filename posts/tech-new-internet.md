@@ -7,7 +7,7 @@ tags: tech, internet
 
 # Technology for a New Internet
 
-![Logo](../assets:images/technology-for-internet.jpg)
+![Logo](../assets/images/technology-for-internet.jpg)
 ## Our technology breaks with the traditional IT model. The Edge internet needs a different approach.
 
 

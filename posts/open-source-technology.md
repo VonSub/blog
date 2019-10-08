@@ -6,7 +6,7 @@ tags: tech, open source
 
 
 # Open Source Technology
-![Logo](../assets:images/open-source--technology.jpg)
+![Logo](../assets/images/open-source--technology.jpg)
 ## An overview of our technology components
 
 ### Open Source Components Overview

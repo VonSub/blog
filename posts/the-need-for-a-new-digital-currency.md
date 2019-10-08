@@ -6,7 +6,7 @@ tags: token, digital currencies
 
 # The need for a new, green utility digital currency
 
-![Logo](../assets:images/the_need_for_new.jpg)
+![Logo](../assets/images/the_need_for_new.jpg)
 ## The world needs a new stable & green utility digital currency, which is usable globally.
 
 Digital currencies are well on the way to full acceptance as a mainstream currency. Today, there are approximately US$ 130+ billion of digital currencies in circulation and approximately US$ 1 billion traded daily on a host of open market exchanges.  Benefits of digital currencies include direct peer to peer transactions (requiring no intermediaries such as banks); greater trust (secured by cryptography and mathematics); lower friction charges; faster transaction times and no single point of failure.
