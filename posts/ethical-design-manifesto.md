@@ -3,9 +3,9 @@ title: "Ethical Design Manifesto"
 author: Stela
 tags: human, design
 published_at: 2017-9-12
+post_image: ethicaldesign.jpg
 ---
 
-# Ethical Design Manifesto
 ![Logo](../assets/images/ethicaldesign.jpg)
 ## How to create products in an ethical, human friendly way.
 

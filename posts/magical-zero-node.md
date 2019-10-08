@@ -3,9 +3,8 @@ title: "Our Magical Zero-Node"
 author: Kristof
 tags: edge cloud, tech, node
 published_at: 2017-9-12
+post_image: 
 ---
-
-# Our Magical Zero-Node
 
 ## Our magic box providing internet capacity.
 

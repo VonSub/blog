@@ -3,10 +3,9 @@ title: "Open Source Technology"
 author: Kristof
 tags: tech, open source
 published_at: 2017-9-12
+post_image: open-source--technology.jpg
 ---
 
-
-# Open Source Technology
 ![Logo](../assets/images/open-source--technology.jpg)
 ## An overview of our technology components
 

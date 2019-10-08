@@ -3,9 +3,8 @@ title: "The need for a new, green utility digital currency"
 author: Adnan
 tags: token, digital currencies
 published_at: 2017-9-12
+post_image: the_need_for_new.jpg
 ---
-
-# The need for a new, green utility digital currency
 
 ![Logo](../assets/images/the_need_for_new.jpg)
 ## The world needs a new stable & green utility digital currency, which is usable globally.

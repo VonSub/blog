@@ -3,10 +3,8 @@ title: "Hewlett Packard Enterprise & ThreeFold Sign MOU"
 author: Stela
 tags: tech, internet, hpe
 published_at: 2017-9-12
+post_image: mou.jpg
 ---
-
-
-## THREEFOLD CREATES A MORE RESPONSIBLE, NEUTRAL AND DECENTRALIZED INTERNET WITH HEWLETT PACKARD ENTERPRISE
 
 ![Logo](../assets/images/mou.jpg)
 

@@ -3,9 +3,9 @@ title: "10 times power savings, is this possible?"
 author: Kristof
 tags: sustainability, IT
 published_at: 2017-9-12
+post_image: 10x-times-power.jpg
 ---
 
-# 10 times power savings, is this possible?
 ![Logo](../assets/images/10x-times-power.jpg)
 ### How does ThreeFold achieve the efficient power usage in the Zero-OS node
 

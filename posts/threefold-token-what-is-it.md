@@ -2,9 +2,8 @@
 title: "ThreeFold Token? What is it?"
 author: Kristof
 tags: token, digital currencies
+post_image: threefold_token.jpg
 ---
-
-# ThreeFold Token?  What is it?
 
 ![Logo](../assets/images/threefold_token.jpg)
 ## What is ThreeFold Token, how to buy, what is the utility, how safe is it?

@@ -3,10 +3,8 @@ title: "The need for a new, neutral internat"
 author: Kristof
 tags: neutrality, internet
 published_at: 2017-9-12
+post_image: neutral-internet.jpg
 ---
-
-
-# The need for a new, neutral Internet
 
 ![Logo](../assets/images/neutral-internet.jpg)
 ## The internet is growing like crazy. This is a Trillion Dollar problem. Together we can build a new internet.

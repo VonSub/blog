@@ -3,10 +3,8 @@ title: "What can I do with the New Edge Cloud"
 author: Sam
 tags: edge cloud, tech
 published_at: 2017-9-12
+post_image: what-can-i-do.jpg
 ---
-
-
-# What can I do with the New Edge Cloud
 
 ![Logo](../assets/images/what-can-i-do.jpg)
 ## Use cases of how the ThreeFold Edge Cloud can be used.

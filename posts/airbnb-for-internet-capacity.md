@@ -3,9 +3,8 @@ title: "The AirBnB of Internet Capacity"
 author: Roel
 tags: capacity, decentralization, farming
 published_at: 2017-9-12
+post_image: airbnb-for-internet-capacity.jpg
 ---
-
-# The AirBnB of Internet Capacity
 
 ![Logo](../assets/images/airbnb-for-internet-capacity.jpg)
 ## Anyone is able to deliver capacity to the ThreeFold Grid.

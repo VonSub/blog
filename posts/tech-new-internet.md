@@ -3,10 +3,8 @@ title: "Technology for a New Internet"
 author: Weynand
 tags: tech, internet
 published_at: 2017-9-12
+post_image: technology-for-internet.jpg
 ---
-
-
-# Technology for a New Internet
 
 ![Logo](../assets/images/technology-for-internet.jpg)
 ## Our technology breaks with the traditional IT model. The Edge internet needs a different approach.
