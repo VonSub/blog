@@ -8,7 +8,7 @@ posts_dir: "posts"
 pages_dir: "pages"
 images_dir: "assets/images"
 github_username: "xmonader"
-posts_per_page: 5
+posts_per_page: 6
 allow_disqus: false
 
 sidebar_links:
